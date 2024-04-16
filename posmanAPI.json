@@ -1,0 +1,67 @@
+{
+    "collection": {
+    "info": {
+    "_postman_id": "b7e7e503-fdf8-49df-850c-b526195c9669",
+    "name": "Hall Booking",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "updatedAt": "2024-01-25T18:18:23.000Z",
+    "uid": "32502529-b7e7e503-fdf8-49df-850c-b526195c9669",
+    "createdAt": null,
+    "lastUpdatedBy": null
+    },
+    "item": [
+    {
+    "name": "Create Room",
+    "id": "4db89b4b-2558-4f41-9f37-76c5690bd002",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-4db89b4b-2558-4f41-9f37-76c5690bd002"
+    },
+    {
+    "name": "Book Room",
+    "id": "42808802-c0dd-42df-b481-526978e0d58d",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-42808802-c0dd-42df-b481-526978e0d58d"
+    },
+    {
+    "name": "List All Booked Data",
+    "id": "955fa974-d801-411f-a401-1a6f9d14f867",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-955fa974-d801-411f-a401-1a6f9d14f867"
+    },
+    {
+    "name": "List Customers with Booked Data",
+    "id": "94d04e86-f087-4094-bed7-4e364853beb9",
+    "protocolProfileBehavior": {
+    "disableBodyPruning": true
+    },
+    "request": {
+    "method": "GET",
+    "header": []
+    },
+    "response": [],
+    "uid": "32502529-94d04e86-f087-4094-bed7-4e364853beb9"
+    }
+    ]
+    }
+    }
